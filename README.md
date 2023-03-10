@@ -2,7 +2,7 @@
 
 ## Description
 
--This project helped me apply some of the knowledge seen in the first week of the bootcamp. I started this proyect because I thinkh the best way to earn new knowledge its to aplly it into something usefull. This proyect has a readable code, that makes that anybody can read it, it includes semantic HTML elements as well as CSS. Everything in this proyect works,son it is 100% debugged. 
+-This project helped me apply some of the knowledge seen in the first week of the bootcamp. I started this proyect because I thinkh the best way to earn new knowledge its to aplly it into something usefull. This proyect has a readable code, that makes that anybody can read it, it includes semantic HTML elements as well as CSS. Everything in this proyect works,so it is 100% debugged. 
 
 ## Credits
 
