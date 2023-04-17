@@ -18,6 +18,7 @@ In order to complete this challenge, I applied the knowledge seen in class, as w
 The starter code is someone else work, i just upgrade it. 
 
 <h2>Live URL</h2>
-
+https://chemaking13.github.io/1.Upgraded-Webpage/
 
 <h2>Preview</h2>
+
